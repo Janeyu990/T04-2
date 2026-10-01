@@ -413,3 +413,10 @@ main h3{
 	}
 
 }
+
+/* T04-3: D3 set up */
+.responsive-svg-container {
+margin: 0 auto; /* center */
+width: 100%; /* fill parent width */
+max-width: 1200px; /* cap max width */
+}
